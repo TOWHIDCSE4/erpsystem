@@ -1,0 +1,19 @@
+{
+  "confirmation": {
+    "message": "Bạn có chắc muốn tiếp tục?",
+    "header": "Xác nhận",
+    "confirm_summery": "Đã xác nhận",
+    "confirm_details": "Bạn đã chấp nhận",
+    "rejected_summery": "Phế phẩm",
+    "rejected_details": "Bạn đã chấp nhận"
+  },
+
+  "validation": {
+    "required": "Trường này không thể để trống",
+    "email": "Giá trị không phải là một địa chỉ email hợp lệ"
+  },
+
+  "common": {
+    "role": "Role List"
+  }
+}

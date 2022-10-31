@@ -1,0 +1,19 @@
+{
+  "confirmation": {
+    "message": "Are you sure you want to proceed?",
+    "header": "Confirmation",
+    "confirm_summery": "Confirmed",
+    "confirm_details": "You have accepted",
+    "rejected_summery": "Rejected",
+    "rejected_details": "You have accepted"
+  },
+
+  "validation": {
+    "required": "This field cannot be left blank",
+    "email": "Value is not a valid email address"
+  },
+
+  "common": {
+    "role": "Role List"
+  }
+}
